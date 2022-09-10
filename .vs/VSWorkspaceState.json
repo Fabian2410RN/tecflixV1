@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\node_modules\\postcss-loader",
+    "\\node_modules\\postcss-loader\\dist",
+    "\\src",
+    "\\src\\components",
+    "\\src\\utils"
+  ],
+  "SelectedNode": "\\src\\index.css",
+  "PreviewInSolutionExplorer": false
+}
